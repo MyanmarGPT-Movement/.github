@@ -31,7 +31,7 @@ There are two types of contributors - Individual & Organization
 
 We list the projects and respective contributors here.
 
-- [MyanmarGPT-Movement Logo Project]()
+- [MyanmarGPT-Movement Logo Project](https://github.com/MyanmarGPT-Movement/MyanmarGPT-Movement-Logo)
   - [Sitt Wai Yan](), []()
 
 
