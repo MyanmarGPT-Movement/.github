@@ -33,10 +33,13 @@ We list the projects and respective contributors here.
 
 ### Projects
 
-- [MyanmarGPT-Movement Logo Project](https://github.com/MyanmarGPT-Movement/MyanmarGPT-Movement-Logo)
+- [MyanmarGPT-Movement Logo Project](https://github.com/MyanmarGPT-Movement/MyanmarGPT-Movement-Logo) - Logo for MyanmarGPT Movement
   - [Sitt Wai Yan](), []()
 
 ### Datasets
+
+- [Rakhine Proverbs Dataset](https://github.com/MinSiThu/Rakhine-Proverbs-Dataset) - Dataset for Rakhine Proverbs
+  - [Min Si Thu](https://github.com/MinSiThu)
 
 ### Models
 
