@@ -31,10 +31,16 @@ There are two types of contributors - Individual & Organization
 
 We list the projects and respective contributors here.
 
+### Projects
+
 - [MyanmarGPT-Movement Logo Project](https://github.com/MyanmarGPT-Movement/MyanmarGPT-Movement-Logo)
   - [Sitt Wai Yan](), []()
 
+### Datasets
 
+### Models
+
+### Activities
 
 ### Contact
 [Min Si Thu](https://www.linkedin.com/in/min-si-thu/)
