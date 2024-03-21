@@ -43,6 +43,9 @@ We list the projects and respective contributors here.
 
 ### Models
 
+- [thai-opt350m-instruct](https://github.com/MinSiThu/thai-opt350m) - Generative AI Model for thai language
+  - [Min Si Thu](https://github.com/MinSiThu)
+
 ### Activities
 
 ### Contact
