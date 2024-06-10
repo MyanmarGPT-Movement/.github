@@ -45,6 +45,9 @@ We list the projects and respective contributors here.
 
 - [thai-opt350m-instruct](https://github.com/MinSiThu/thai-opt350m) - Generative AI Model for thai language
   - [Min Si Thu](https://github.com/MinSiThu)
+ 
+- [Rolema7B](https://huggingface.co/jojo-ai-mst/rolema-7b-it) - & Billion Large Language Model with Instruction Dataset
+  - [Min Si Thu](https://github.com/MinSiThu)
 
 ### Activities
 
