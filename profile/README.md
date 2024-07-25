@@ -40,13 +40,16 @@ We list the projects and respective contributors here.
 
 - [Rakhine Proverbs Dataset](https://github.com/MinSiThu/Rakhine-Proverbs-Dataset) - Dataset for Rakhine Proverbs
   - [Min Si Thu](https://github.com/MinSiThu)
+ 
+- [Burmese Microbiology 1K](https://github.com/MinSiThu/Burmese-Microbiology-1K) - Dataset for Clinical Microbiology in Burmese Language
+  - [Min Si Thu](https://github.com/MinSiThu)
 
 ### Models
 
-- [thai-opt350m-instruct](https://github.com/MinSiThu/thai-opt350m) - Generative AI Model for thai language
+- [thai-opt350m-instruct](https://github.com/MinSiThu/thai-opt350m) - Generative AI Model for the Thai language
   - [Min Si Thu](https://github.com/MinSiThu)
  
-- [Rolema7B](https://huggingface.co/jojo-ai-mst/rolema-7b-it) - & Billion Large Language Model with Instruction Dataset
+- [Rolema7B](https://huggingface.co/jojo-ai-mst/rolema-7b-it) - 7 Billion Large Language Model with Instruction Dataset
   - [Min Si Thu](https://github.com/MinSiThu)
 
 ### Activities
