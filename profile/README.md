@@ -69,5 +69,9 @@ We list the projects and respective contributors here.
 
 - Mandalay NLP Sharing Session (April 2024)
 
+## Libraries
+
+- [Defi The Open Libraries](https://defiopenlibrary.wordpress.com/)
+
 ### Contact
 [Min Si Thu](https://www.linkedin.com/in/min-si-thu/)
