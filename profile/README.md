@@ -4,18 +4,18 @@
 ### The start of MyanmarGPT-Movement ([ဗမာလိုအသေးစိတ်ဖတ်ရန်](https://github.com/MyanmarGPT-Movement/MyanmarGPT-Movement))
 
 MyanmarGPT Movement is a movement for Artificial Intelligence in Myanmar.
-The Movement was initiated by the release of MyanmarGPT, a Burmese language GPT in 2023.
+The Movement was initiated by releasing MyanmarGPT, a Burmese language GPT in 2023.
 
 After the release of the first open-source, usable foundational Burmese language in Myanmar, I, [Min Si Thu](https://github.com/MinSiThu) feel like we need to move further in the field of Artificial Intelligence to explore more and more machine learning models, projects, datasets and activities in Myanmar.
 
-Thus, why I started a movement on Artificial Intelligence, named after MyanmarGPT, which has several impacts and influences on the local communities in Myanmar.
+Thus, I started a movement on artificial intelligence named MyanmarGPT, which has had several impacts and influences on the local communities in Myanmar.
 
 ### How the MyanmarGPT Movement works
 
 MyanmarGPT Movement is a movement for everyone around the world for the development of AI fields and technologies in Myanmar. 
-Not only the Burmese language but also various fields interested contributors can be executed, collaborated, and maintained.
+The Burmese language and various fields of interested contributors can be executed, collaborated, and maintained.
 
-The purpose of MyanmarGPT is to support these projects in the ways of people can.
+The purpose of MyanmarGPT is to support these projects in the ways people can.
 
 Machine learning models, datasets, papers, articles, books, applications, communities, events, tutorial videos & many types of projects are listed, supported, and collaborated under the name of MyanmarGPT Movement.
 
@@ -34,7 +34,7 @@ We list the projects and respective contributors here.
 ### Projects
 
 - [MyanmarGPT-Movement Logo Project](https://github.com/MyanmarGPT-Movement/MyanmarGPT-Movement-Logo) - Logo for MyanmarGPT Movement
-  - [Sitt Wai Yan](), []()
+  - [Sitt Wai Yan]()
 
 ### Datasets
 
@@ -43,6 +43,19 @@ We list the projects and respective contributors here.
  
 - [Burmese Microbiology 1K](https://github.com/MinSiThu/Burmese-Microbiology-1K) - Dataset for Clinical Microbiology in Burmese Language
   - [Min Si Thu](https://github.com/MinSiThu)
+ 
+- [Myanmar Agriculture 1K](https://huggingface.co/datasets/jojo-ai-mst/Myanmar-Agricutlure-1K) - Agriculture Dataset in Burmese Language
+  - [Min Si Thu](https://github.com/MinSiThu)
+ 
+- [Mpox-Myanmar](https://huggingface.co/datasets/jojo-ai-mst/Mpox-Myanmar) - Dataset for Mpox Virus in the Burmese Language
+  - [Min Si Thu](https://github.com/MinSiThu)
+  - Khin Myat Noe
+ 
+- [Multilingual Roleplay](https://huggingface.co/collections/jojo-ai-mst/multilingual-roleplay-66f91668cb7628aaef4af6ed) - More than 50 Roleplay Datasets in many languages covering ASEAN, African, Middle East and other low resource languages
+  - [Min Si Thu](https://github.com/MinSiThu)
+ 
+- [Myanmar Football Dataset](https://huggingface.co/datasets/thisisfalse9/Myanmar_Football_Dataset) - Myanmar Football Dataset (General Football Knowledge) for NLP Research and LLM Development
+  - [ThisIsFalse9](https://github.com/thisisfalse9)
 
 ### Models
 
@@ -53,6 +66,8 @@ We list the projects and respective contributors here.
   - [Min Si Thu](https://github.com/MinSiThu)
 
 ### Activities
+
+- Mandalay NLP Sharing Session (April 2024)
 
 ### Contact
 [Min Si Thu](https://www.linkedin.com/in/min-si-thu/)
